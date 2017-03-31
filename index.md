@@ -1,3 +1,5 @@
+<meta name="msvalidate.01" content="2E8F498CBF023CAB6B7A111EF66A3786" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CaiqueLatorre/caiquelatorre.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
